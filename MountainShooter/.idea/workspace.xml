@@ -5,36 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27f5d0a2-3a76-41f2-a974-8e3a6d4fd3bc" name="Changes" comment="Creating main loop&#10;Connecting Menu and Game classes">
-      <change afterPath="$PROJECT_DIR$/asset/Enemy1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Enemy1Shot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Enemy2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Enemy2Shot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level1.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level1Bg0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level1Bg1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level1Bg2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level1Bg3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level1Bg4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level1Bg5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level1Bg6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level2.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level2Bg0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level2Bg1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level2Bg2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level2Bg3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level2Bg4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Menu.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/MenuBg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Player1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Player1Shot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Player2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Player2Shot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Score.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/ScoreBg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/Const.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/Menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Menu.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,22 +34,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Menu.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/miguel.oliveira.F574/Documents/GitHub/Game_LP/MountainShooter",
-    "node.js.detected.package.jshint": "true",
-    "node.js.selected.package.jshint": "",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Menu.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/miguel.oliveira.F574/Documents/GitHub/Game_LP/MountainShooter&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
