@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27f5d0a2-3a76-41f2-a974-8e3a6d4fd3bc" name="Changes" comment="Creating main loop&#10;Connecting Menu and Game classes">
+      <change afterPath="$PROJECT_DIR$/code/Background.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Entity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/EntityFactory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Level.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/Const.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Const.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/Menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Menu.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +27,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
@@ -34,22 +46,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Menu.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/miguel.oliveira.F574/Documents/GitHub/Game_LP/MountainShooter&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Menu.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "feature__level",
+    "last_opened_file_path": "C:/Users/miguel.oliveira.F574/Documents/GitHub/Game_LP/MountainShooter",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
