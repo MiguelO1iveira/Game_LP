@@ -16,7 +16,7 @@ class Game:
             menu_return = menu.run()
 
             if menu_return in [MENU_OPTION[0], MENU_OPTION[1], MENU_OPTION[2]]:
-                leve = Level(self.window, 'Level 1', menu_return)
+                leve = Level(self.window, 'Level1', menu_return)
                 leve_return = leve.run()
             elif menu_return == MENU_OPTION[4]:
                 pygame.quit()
